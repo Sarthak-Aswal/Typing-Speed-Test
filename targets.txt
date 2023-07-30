@@ -1,0 +1,4 @@
+she sells sea shells on the sea shore
+he used to play cricket till he injured his knee
+rohan was the captain of his college football team
+you should always add meaningful names to your variables

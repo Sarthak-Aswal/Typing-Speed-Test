@@ -1,1 +1,2 @@
 # Typing-Speed-Test
+It is a simple terminal based typing speed test that uses curses and some other modules . Run it in terminaland you will get a target string.Type the correct string and calcuate your typing speed.
